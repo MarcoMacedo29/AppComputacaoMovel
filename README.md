@@ -3,7 +3,7 @@
 # __Indíce__
 1. [__Introdução__](#Introdução)
 2. [__Estrutura do Projeto__](#estrutura)
-   - [__Objetivo__](#organizacaopastas)
+   - [__Organização das Pastas__](#organizacaopastas)
 4. [__Lista de Funcionalidades__](#funcionalidades)
 5. [__Decisões de Implementação__](#dep)
 6. [__Modelo de Dados__](#modelodados)
