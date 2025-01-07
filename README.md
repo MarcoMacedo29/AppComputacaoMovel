@@ -1,5 +1,5 @@
 # Relatório do Projeto: Aplicação para Gestão de Stock um Supermercado 
-  - Marco Macedo nº27919 / Miguel Freitas nº29562
+  - Trabalho Realizado por : Marco Macedo Nº27919 | Miguel Freitas Nº29562
 
 # __Indíce__
 1. [__Introdução__](#Introdução)
