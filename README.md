@@ -5,12 +5,14 @@
 2. [__Estrutura do Projeto__](#estrutura)
    - [__Estrutura de Pastas__](#estruturapastas)
    - [__Organização das Pastas__](#organizacaopastas)
-4. [__Lista de Funcionalidades__](#funcionalidades)
-5. [__Decisões de Implementação__](#dep)
-6. [__Modelo de Dados__](#modelodados)
-7. [__Implementação do Projeto__](#implementacaoprojeto)
-8. [__Dificuldades__](#Dificuldades)
-9. [__Conclusão__](#Conclusão)
+3. [__Lista de Funcionalidades__](#funcionalidades)
+   - [__Organização das Pastas__](#funcionalidades)
+   - [__Organização das Pastas__](#organizacaopastas)
+6. [__Decisões de Implementação__](#dep)
+7. [__Modelo de Dados__](#modelodados)
+8. [__Implementação do Projeto__](#implementacaoprojeto)
+9. [__Dificuldades__](#Dificuldades)
+10. [__Conclusão__](#Conclusão)
 
 ## Introdução
 
@@ -152,6 +154,7 @@ com.example.trabalhofinal/
 <a name="dep"></a>
 ## Desenhos, Esquemas e Protótipos
 
+<a name="fluxograma"></a>
 ### Fluxograma do Funcionamento
 ```mermaid
 graph TD;
@@ -162,7 +165,7 @@ graph TD;
     GerirStock --> Historico;
     Dashboard --> Relatorios;
 ```
-
+<a name="Prototipodeecras"></a>
 ### Protótipos de Ecrãs
 
 - **Ecrã de Login**: Interface para autenticação de utilizadores.
