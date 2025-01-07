@@ -48,7 +48,6 @@ com.example.trabalhofinal/
 │
 ├── ui/
 │   ├── Encomendas/
-│   │   ├── EncomendasRowView.kt
 │   │   ├── EncomendasView.kt
 │   │   └── EncomendasViewModel.kt
 |   |
@@ -107,7 +106,6 @@ com.example.trabalhofinal/
 
 - **`ui`**: Contém os componentes da interface do utilizador (UI), organizados em subpacotes:
   - **`Encomendas`**:
-    - `EncomendasRowView.kt`: Ecrã para visualizar encomendas.
     - `EncomendasView.kt`: Ecrã para visualizar encomendas.
     - `EncomendasViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
 
