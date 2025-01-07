@@ -81,7 +81,7 @@ com.example.trabalhofinal/
         ├── dimens.xml
         └── styles.xml
 
-
+```
 
 <a name="organizacaopastas"></a>
 ### Organização das Pastas
