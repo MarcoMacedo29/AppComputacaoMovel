@@ -20,6 +20,59 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 ---
 <a name="estrutura"></a>
 ## Estrutura do Projeto
+
+com.example.trabalhofinal/
+│
+├── MainActivity.kt                  # Ponto de entrada da aplicação
+│
+├── models/                          # Contém as classes de modelo
+│   ├── Item.kt                      # Representa um item no stock
+│   └── User.kt                      # Representa os dados do utilizador
+│
+├── repositories/                    # Contém os repositórios de dados
+│   ├── ItemRepository.kt            # Gere dados de itens
+│   └── UserRepository.kt            # Gere dados de utilizadores
+│
+├── ui/                              # Contém os componentes de UI
+│   ├── encomendas/                  # Ecrãs e ViewModels relacionados a encomendas
+│   │   ├── EncomendasItemsView.kt   # Ecrã para visualizar encomendas
+│   │   └── EncomendasItemsViewModel.kt # ViewModel para encomendas
+│   │
+│   ├── expiredItems/                # Ecrãs e ViewModels relacionados a itens expirados
+│   │   ├── ExpiredItemsView.kt      # Ecrã para visualizar itens expirados
+│   │   ├── ExpiredItemsViewModel.kt # ViewModel para itens expirados
+│   │   └── ExpiredItemsViewPreview.kt # Pré-visualização de UI
+│   │
+│   ├── home/                        # Ecrã inicial
+│   │   └── HomeView.kt              # Ecrã inicial da aplicação
+│   │
+│   ├── listsItems/                  # Ecrãs e ViewModels para gestão de itens
+│   │   ├── AddItemView.kt           # Ecrã para adicionar novos itens
+│   │   ├── AddItemViewModel.kt      # ViewModel para adicionar itens
+│   │   ├── ItemRowView.kt           # Visualização individual de itens
+│   │   ├── ListItemsView.kt         # Ecrã para listar itens
+│   │   └── ListItemsViewModel.kt    # ViewModel para listagem de itens
+│   │
+│   ├── login/                       # Ecrãs e ViewModels para login e registo
+│   │   ├── LoginView.kt             # Ecrã de login
+│   │   └── LoginViewModel.kt        # ViewModel para login e autenticação
+│   │
+│   ├── profile/                     # Funcionalidades relacionadas ao perfil
+│   │   └── ProfileView.kt           # Ecrã para o perfil (detalhes não especificados)
+│   │
+│   └── theme/                       # Definições de tema
+│       ├── Color.kt                 # Definições de cores
+│       ├── Theme.kt                 # Tema geral da aplicação
+│       └── Type.kt                  # Tipografia da aplicação
+│
+└── resources/                       # Diretório para recursos como layouts, strings, imagens, etc.
+    ├── layout/                      # Arquivos de layout XML
+    └── values/                       # Definições de recursos (strings, dimensões, cores)
+        ├── colors.xml               # Definição de cores
+        ├── strings.xml              # Definição de strings
+        ├── dimens.xml               # Definição de dimensões
+        └── styles.xml               # Estilos de UI
+
 <a name="organizacaopastas"></a>
 ### Organização das Pastas
 
