@@ -14,7 +14,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 
 #### **Pacote Principal: `com.example.trabalhofinal`**
 
-- **`MainActivity.kt`**: Contém os componentes da interface do utilizador (UI), organizados em subpacotes:
+- **`MainActivity.kt`**: O ponto de entrada da aplicação, responsável por configurar e gerenciar a navegação entre os diferentes ecrãs da app, utilizando NavController para fragmentos.
 
 - **`models`**: Contém as classes de modelo que representam os dados da aplicação.
   - `Item.kt`: Representa um item no stock.
