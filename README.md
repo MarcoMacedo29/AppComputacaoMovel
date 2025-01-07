@@ -2,7 +2,7 @@
 
 # __Indíce__
 1. [__Introdução__](#Introdução)
-2. [__Implementação__](#Implementação)
+2. [__Implementação__](#EstruturadoProjeto)
 3. [__Instruções de Jogo__](#instru)
 4. [__Decisões de Implementação__](#decisoes)
 5. [__Análise dos Códigos Disponibilizados__](#analise)
