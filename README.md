@@ -3,6 +3,7 @@
 # __Indíce__
 1. [__Introdução__](#Introdução)
 2. [__Estrutura do Projeto__](#estrutura)
+   - [__Estrutura de Pastas__](#estruturapastas)
    - [__Organização das Pastas__](#organizacaopastas)
 4. [__Lista de Funcionalidades__](#funcionalidades)
 5. [__Decisões de Implementação__](#dep)
@@ -21,7 +22,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 <a name="estrutura"></a>
 ## Estrutura do Projeto
 
-
+<a name="estruturapastas"></a>
 ### Estrutura de Pastas:
 
 Abaixo está a estrutura de pastas do projeto:
