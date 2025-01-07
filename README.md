@@ -7,8 +7,8 @@
 4. [__Decisões de Implementação__](#dep)
 5. [__Modelo de Dados__](#modelodados)
 6. [__Implementação do Projeto__](#implementacaoprojeto)
-7. [__Implementação do Projeto__](#Dificuldades)
-8. [__Implementação do Projeto__](#implementacaoprojeto)
+7. [__Dificuldades__](#Dificuldades)
+8. [__Conclusão__](#Conclusão)
 
 ## Introdução
 
@@ -164,7 +164,7 @@ Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 
 ---
 
-## Conclusões
+## Conclusão
 
 O projeto atingiu os objetivos principais, fornecendo uma ferramenta prática e funcional para a gestão de stock de um supermercado. A aplicação oferece uma interface intuitiva e funcionalidades robustas para os utilizadores, explorando as capacidades do Firebase e Android.
 
