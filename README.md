@@ -6,6 +6,7 @@
    - [__Estrutura de Pastas__](#estruturapastas)
    - [__Organização das Pastas__](#organizacaopastas)
 3. [__Lista de Funcionalidades__](#funcionalidades)
+4. [__Desenhos, Esquemas e Protótipos__](#dep)
    - [__Fluxograma do Funcionamento__](#funcionalidades)
    - [__Organização das Pastas__](#organizacaopastas)
 6. [__Decisões de Implementação__](#dep)
