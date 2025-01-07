@@ -24,8 +24,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 
 ### Descrição:
 
-# Estrutura do Projeto
-
+#### Estrutura do Projeto
 Abaixo está a estrutura de pastas do projeto:
 
 ```plaintext
