@@ -1,7 +1,7 @@
 # Relatório do Projeto: Aplicação para Gestão de Stock um Supermercado
 
 # __Indíce__
-1. [__Introdução__](##Introdução)
+1. [__Introdução__](#Introdução)
 2. [__Implementação__](#Implementação)
 3. [__Instruções de Jogo__](#instru)
 4. [__Decisões de Implementação__](#decisoes)
