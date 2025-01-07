@@ -32,7 +32,6 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 <a name="estruturapastas"></a>
 ### Estrutura de Pastas:
 
-Abaixo está a estrutura de pastas do projeto:
 
 ```plaintext
 com.example.trabalhofinal/
