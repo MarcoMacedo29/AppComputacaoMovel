@@ -6,7 +6,7 @@
    - [__Estrutura de Pastas__](#estruturapastas)
    - [__Organização das Pastas__](#organizacaopastas)
 3. [__Lista de Funcionalidades__](#funcionalidades)
-   - [__Organização das Pastas__](#funcionalidades)
+   - [__Fluxograma do Funcionamento__](#funcionalidades)
    - [__Organização das Pastas__](#organizacaopastas)
 6. [__Decisões de Implementação__](#dep)
 7. [__Modelo de Dados__](#modelodados)
