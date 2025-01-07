@@ -101,9 +101,9 @@ com.example.trabalhofinal/
 
 - **`ui`**: Contém os componentes da interface do utilizador (UI), organizados em subpacotes:
   - **`Encomendas`**:
-    - `EncomendasItemsView.kt`: Ecrã para visualizar encomendas.
-    - `EncomendasItemsViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
-    - `EncomendasItemsViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
+    - `EncomendasRowView.kt`: Ecrã para visualizar encomendas.
+    - `EncomendasView.kt`: Ecrã para visualizar encomendas.
+    - `EncomendasViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
 
   - **`ExpiredItems`**:
     - `ExpiredItemsView.kt`: Ecrã para visualizar itens expirados.
@@ -125,7 +125,8 @@ com.example.trabalhofinal/
     - `LoginViewModel.kt`: ViewModel correspondente à lógica de autenticação.
 
   - **`profile`**:
-    - Gere funcionalidades relacionadas ao perfil do utilizador (detalhes não especificados).
+    - `ProfileView.kt`: Gere funcionalidades relacionadas ao perfil do utilizador (detalhes não especificados).
+    - `ProfileViewModel.kt`: ViewModel correspondente à lógica de profile.
 
   - **`theme`**:
     - `Color.kt`: Contém as definições de cores utilizadas na aplicação.
