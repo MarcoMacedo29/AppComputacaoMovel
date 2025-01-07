@@ -1,4 +1,4 @@
-# Relatório do Projeto: Aplicação para Gestão de Stock
+# Relatório do Projeto: Aplicação para Gestão de Stock um Supermercado
 
 ## Introdução
 
