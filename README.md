@@ -145,16 +145,20 @@ com.example.trabalhofinal/
 - **Login e Registo de Utilizador**:
   - Implementado com Firebase Authentication para autenticação segura.
 - **Gestão de Stock**:
-  - Adição, edição e eliminação de itens no stock através de interfaces intuitivas:
+  - Adição e eliminação de itens no stock através de interfaces intuitivas:
     - **AddItemView**: Permite adicionar novos itens ao stock.
-    - **EditItemView**: Edita informações de itens existentes.
     - **ListItemsView**: Lista todos os itens disponíveis no stock.
     - **ItemRowView**: Apresenta informações de cada item individualmente.
-- **Histórico de Movimentações**:
-  - Registo automático de movimentações de entrada e saída de stock.
-- **Relatórios Gerenciais**:
-
+- **Gestão de Encomendas**  
+  - **EncomendasView**: Permite visualizar e gerir encomendas realizadas.
+- **Gestão de Itens Expirados**  
+  - **ExpiredItemsView**: Apresenta uma lista de itens expirados para ações corretivas.
+  - **ExpiredItemsViewPreview**: Pré-visualizações para desenvolvimento e testes.
+- **Gestão de Perfil**  
+- **ProfileView**: Exibição e edição de informações do perfil do utilizador.
+    
 ---
+
 <a name="dep"></a>
 ## Desenhos, Esquemas e Protótipos
 
