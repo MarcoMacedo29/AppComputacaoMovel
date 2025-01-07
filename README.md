@@ -9,11 +9,14 @@
 4. [__Desenhos, Esquemas e Protótipos__](#dep)
    - [__Fluxograma do Funcionamento__](#fluxograma)
    - [__Protótipos de Ecrãs__](#Prototipodeecras)
-6. [__Decisões de Implementação__](#dep)
-7. [__Modelo de Dados__](#modelodados)
-8. [__Implementação do Projeto__](#implementacaoprojeto)
-9. [__Dificuldades__](#Dificuldades)
-10. [__Conclusão__](#Conclusão)
+5. [__Modelo de Dados__](#modelodados)
+   - [__Estrutura no Firebase Firestore__](#estruturafirebase)
+6. [__Implementação do Projeto__](#implementacaoprojeto)
+   - [__Firebase__](#firebase)
+   - [__MVVM__](#mvvm)
+   - [__Tecnologias e Bibliotecas Usadas__](#tecnologias)
+7. [__Dificuldades__](#Dificuldades)
+8. [__Conclusão__](#Conclusão)
 
 ## Introdução
 
@@ -180,6 +183,7 @@ Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 <a name="modelodados"></a>
 ## Modelo de Dados
 
+<a name="estruturafirebase"></a>
 ### Estrutura no Firebase Firestore
 
 - **Coleção `utilizadores`**:
@@ -204,15 +208,18 @@ Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 <a name="implementacaoprojeto"></a>
 ## Implementação do Projeto
 
+<a name="firebase"></a>
 ### Firebase
 - **Authentication**: Gere o login e registo de utilizadores.
 - **Firestore**: Base de dados em tempo real para armazenar informações do stock.
 
+<a name="mvvm"></a>
 ### MVVM
 - **Model**: Responsável pela gestão de dados.
 - **ViewModel**: Comunicação entre Model e View, observando alterações nos dados.
 - **View**: Interface com o utilizador, implementada em XML e Kotlin.
 
+<a name="tecnologias"></a>
 ### Tecnologias e Bibliotecas Usadas
 
 - **Android Studio**
