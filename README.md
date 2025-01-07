@@ -3,10 +3,12 @@
 # __Indíce__
 1. [__Introdução__](#Introdução)
 2. [__Estrutura do Projeto__](#estrutura)
-3. [__Instruções de Jogo__](#instru)
-4. [__Decisões de Implementação__](#decisoes)
-5. [__Análise dos Códigos Disponibilizados__](#analise)
-6. [__Conclusão__](#Conclusão)
+3. [__Lista de Funcionalidades__](#funcionalidades)
+4. [__Decisões de Implementação__](#dep)
+5. [__Modelo de Dados__](#modelodados)
+6. [__Implementação do Projeto__](#implementacaoprojeto)
+7. [__Implementação do Projeto__](#Dificuldades)
+8. [__Implementação do Projeto__](#implementacaoprojeto)
 
 ## Introdução
 
@@ -66,7 +68,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
   
 
 ---
-
+<a name="funcionalidades"></a>
 ## Lista de Funcionalidades
 
 - **Login e Registo de Utilizador**:
@@ -80,7 +82,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
   - Geração de relatórios simples para análise de movimentação de stock.
 
 ---
-
+<a name="dep"></a>
 ## Desenhos, Esquemas e Protótipos
 
 ### Fluxograma do Funcionamento
@@ -104,7 +106,7 @@ graph TD;
 Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 
 ---
-
+<a name="modelodados"></a>
 ## Modelo de Dados
 
 ### Estrutura no Firebase Firestore
@@ -128,7 +130,7 @@ Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
   - `quantidade` (int): Quantidade movimentada.
 
 ---
-
+<a name="implementacaoprojeto"></a>
 ## Implementação do Projeto
 
 ### Firebase
