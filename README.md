@@ -155,7 +155,7 @@ com.example.trabalhofinal/
   - **ExpiredItemsView**: Apresenta uma lista de itens expirados para ações corretivas.
   - **ExpiredItemsViewPreview**: Pré-visualizações para desenvolvimento e testes.
 - **Gestão de Perfil**  
-- **ProfileView**: Exibição e edição de informações do perfil do utilizador.
+  - **ProfileView**: Exibição e edição de informações do perfil do utilizador.
     
 ---
 
