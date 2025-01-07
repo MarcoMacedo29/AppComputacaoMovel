@@ -4,15 +4,47 @@
 
 A aplicação foi desenvolvida utilizando **Android Studio** e implementada com as linguagens **Kotlin** e **Java**. O projeto segue o padrão de arquitetura **MVVM (Model-View-ViewModel)**, com as seguintes camadas principais:
 
-- **Model**: Gerenciamento de dados e integração com o banco de dados Firebase (Firestore).
-- **ViewModel**: Camada intermediária que conecta a View com os dados.
-- **View**: Composta pelas telas desenvolvidas em XML e manipuladas via atividades e fragments.
-
 ### Organização dos Pacotes
 
-1. **`com.supermercado.stock`**: Contém as classes principais e lógica geral.
-2. **`com.supermercado.stock.ui`**: Interfaces de usuário, incluindo activities e fragments.
-3. **`com.supermercado.stock.data`**: Classes responsáveis pelo acesso a dados, incluindo integração com o Firebase Firestore.
+#### **Pacote Principal: `com.example.trabalhofinal`**
+
+- **`models`**: Contém as classes de modelo que representam os dados da aplicação.
+  - `Item.kt`: Representa um item no estoque.
+  - `User.kt`: Representa os dados do usuário.
+
+- **`repositories`**: Contém os repositórios que gerenciam o acesso a dados.
+  - `ItemRepository.kt`: Gerencia os dados relacionados a itens.
+  - `UserRepository.kt`: Gerencia os dados relacionados a usuários.
+
+- **`ui`**: Contém os componentes da interface do usuário (UI), organizados em subpacotes:
+  - **`encomendas`**:
+    - `EncomendasItemsView.kt`: Tela para visualizar encomendas.
+    - `EncomendasItemsViewModel.kt`: ViewModel para gerenciar a lógica relacionada a encomendas.
+  
+  - **`ExpiredItems`**:
+    - `ExpiredItemsView.kt`: Tela para visualizar itens expirados.
+    - `ExpiredItemsViewModel.kt`: ViewModel correspondente à lógica de itens expirados.
+    - `ExpiredItemsViewPreview.kt`: Pré-visualização para testes de UI.
+
+  - **`home`**:
+    - `HomeView.kt`: Tela inicial do aplicativo.
+
+  - **`lists.items`**:
+    - `AddItemView.kt`: Tela para adicionar novos itens ao estoque.
+    - `AddItemViewModel.kt`: ViewModel correspondente à tela de adição de itens.
+    - `ItemRowView.kt`: Visualização individual de itens na lista.
+    - `ListItemsView.kt`: Tela para listar os itens no estoque.
+    - `ListItemsViewModel.kt`: ViewModel correspondente à tela de listagem de itens.
+
+  - **`login`**:
+    - `LoginView.kt`: Tela de login para os usuários.
+    - `LoginViewModel.kt`: ViewModel correspondente à lógica de autenticação.
+
+  - **`profile`**:
+    - Gerencia funcionalidades relacionadas ao perfil do usuário (detalhes não especificados).
+
+  - **`theme`**:
+    - Gerencia temas e estilos visuais da aplicação.
 
 ## Lista de Funcionalidades
 
