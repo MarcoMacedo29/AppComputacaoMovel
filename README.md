@@ -100,8 +100,9 @@ com.example.trabalhofinal/
   - `UserRepository.kt`: Gere os dados relacionados a utilizadores.
 
 - **`ui`**: Contém os componentes da interface do utilizador (UI), organizados em subpacotes:
-  - **`encomendas`**:
+  - **`Encomendas`**:
     - `EncomendasItemsView.kt`: Ecrã para visualizar encomendas.
+    - `EncomendasItemsViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
     - `EncomendasItemsViewModel.kt`: ViewModel para gerir a lógica relacionada a encomendas.
 
   - **`ExpiredItems`**:
