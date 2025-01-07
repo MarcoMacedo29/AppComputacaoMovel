@@ -158,14 +158,28 @@ com.example.trabalhofinal/
 
 <a name="fluxograma"></a>
 ### Fluxograma do Funcionamento
+
 ```mermaid
 graph TD;
-    Login --> Dashboard;
-    Dashboard --> GerirStock;
-    GerirStock --> AdicionarItem;
-    GerirStock --> EditarItem;
-    GerirStock --> Historico;
-    Dashboard --> Relatorios;
+    Login --> LoginView;
+    LoginView --> Dashboard;
+    Dashboard --> HomeView;
+    Dashboard --> EncomendasView;
+    Dashboard --> ExpiredItemsView;
+    Dashboard --> ListItemsView;
+    Dashboard --> ProfileView;
+    HomeView --> AddItemView;
+    HomeView --> EditItemView;
+    AddItemView --> ListItemsView;
+    EditItemView --> ListItemsView;
+    ListItemsView --> ItemRowView;
+    EncomendasView --> EncomendasViewModel;
+    ExpiredItemsView --> ExpiredItemsViewModel;
+    ProfileView --> ProfileViewModel;
+    EncomendasView --> Dashboard;
+    ExpiredItemsView --> Dashboard;
+    ListItemsView --> Dashboard;
+    ProfileView --> Dashboard;
 ```
 <a name="Prototipodeecras"></a>
 ### Protótipos de Ecrãs
