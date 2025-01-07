@@ -23,7 +23,7 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 <a name="organizacaopastas"></a>
 ### Organização das Pastas
 
-#### **Pacote Principal: `com.example.trabalhofinal`**
+#### **Nome Principal: `com.example.trabalhofinal`**
 
 - **`MainActivity.kt`**: O ponto de entrada da aplicação, responsável por configurar e gerenciar a navegação entre os diferentes ecrãs da app, utilizando NavController para fragmentos.
 
