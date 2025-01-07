@@ -41,11 +41,12 @@ com.example.trabalhofinal/
 │   └── UserRepository.kt
 │
 ├── ui/
-│   ├── encomendas/
-│   │   ├── EncomendasItemsView.kt
-│   │   └── EncomendasItemsViewModel.kt
-│   │
-│   ├── expiredItems/
+│   ├── Encomendas/
+│   │   ├── EncomendasRowView.kt
+│   │   ├── EncomendasView.kt
+│   │   └── EncomendasViewModel.kt
+|   |
+│   ├── ExpiredItems/
 │   │   ├── ExpiredItemsView.kt
 │   │   ├── ExpiredItemsViewModel.kt
 │   │   └── ExpiredItemsViewPreview.kt
@@ -53,7 +54,7 @@ com.example.trabalhofinal/
 │   ├── home/
 │   │   └── HomeView.kt
 │   │
-│   ├── listsItems/
+│   ├── lists.items/
 │   │   ├── AddItemView.kt
 │   │   ├── AddItemViewModel.kt
 │   │   ├── ItemRowView.kt
@@ -65,7 +66,8 @@ com.example.trabalhofinal/
 │   │   └── LoginViewModel.kt
 │   │
 │   ├── profile/
-│   │   └── ProfileView.kt
+│   │   ├── ProfileView.kt
+|   |   └── ProfileViewModel.kt
 │   │
 │   └── theme/
 │       ├── Color.kt
