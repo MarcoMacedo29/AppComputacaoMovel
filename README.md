@@ -24,20 +24,63 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 
 ### Descrição:
 
-- **`MainActivity.kt`**: Ponto de entrada da aplicação.
-- **`models/`**: Contém as classes de modelo como `Item.kt` e `User.kt`.
-- **`repositories/`**: Contém os repositórios para acesso a dados, como `ItemRepository.kt` e `UserRepository.kt`.
-- **`ui/`**: Contém os componentes de UI divididos por diferentes funcionalidades da aplicação:
-  - **encomendas/**: Ecrãs e ViewModels relacionados às encomendas.
-  - **expiredItems/**: Ecrãs e ViewModels para itens expirados.
-  - **home/**: Tela inicial da aplicação.
-  - **listsItems/**: Ecrãs e ViewModels para gestão de itens no stock.
-  - **login/**: Tela de login e autenticação.
-  - **profile/**: Funcionalidades do perfil do utilizador.
-  - **theme/**: Definições de cores, tema e tipografia.
-- **`resources/`**: Contém os recursos necessários, como layouts, strings, cores e dimensões.
+# Estrutura do Projeto
 
-Essa estrutura organizada ajuda na compreensão e navegação do projeto, facilitando a colaboração e manutenção no GitHub.
+Abaixo está a estrutura de pastas do projeto:
+
+```plaintext
+com.example.trabalhofinal/
+│
+├── MainActivity.kt
+│
+├── models/
+│   ├── Item.kt
+│   └── User.kt
+│
+├── repositories/
+│   ├── ItemRepository.kt
+│   └── UserRepository.kt
+│
+├── ui/
+│   ├── encomendas/
+│   │   ├── EncomendasItemsView.kt
+│   │   └── EncomendasItemsViewModel.kt
+│   │
+│   ├── expiredItems/
+│   │   ├── ExpiredItemsView.kt
+│   │   ├── ExpiredItemsViewModel.kt
+│   │   └── ExpiredItemsViewPreview.kt
+│   │
+│   ├── home/
+│   │   └── HomeView.kt
+│   │
+│   ├── listsItems/
+│   │   ├── AddItemView.kt
+│   │   ├── AddItemViewModel.kt
+│   │   ├── ItemRowView.kt
+│   │   ├── ListItemsView.kt
+│   │   └── ListItemsViewModel.kt
+│   │
+│   ├── login/
+│   │   ├── LoginView.kt
+│   │   └── LoginViewModel.kt
+│   │
+│   ├── profile/
+│   │   └── ProfileView.kt
+│   │
+│   └── theme/
+│       ├── Color.kt
+│       ├── Theme.kt
+│       └── Type.kt
+│
+└── resources/
+    ├── layout/
+    └── values/
+        ├── colors.xml
+        ├── strings.xml
+        ├── dimens.xml
+        └── styles.xml
+
 
 
 <a name="organizacaopastas"></a>
