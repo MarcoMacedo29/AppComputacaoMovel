@@ -2,7 +2,7 @@
 
 # __Indíce__
 1. [__Introdução__](#Introdução)
-2. [__Estrutura do Projeto__](#EstruturadoProjeto)
+2. [__Estrutura do Projeto__](#estrutura)
 3. [__Instruções de Jogo__](#instru)
 4. [__Decisões de Implementação__](#decisoes)
 5. [__Análise dos Códigos Disponibilizados__](#analise)
@@ -15,7 +15,7 @@ Este projeto tem como objetivo o desenvolvimento de uma aplicação móvel desti
 A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Android Studio**, e incorpora funcionalidades como autenticação, persistência de dados e visualização intuitiva de informações.
 
 ---
-
+<a name="estrutura"></a>
 ## Estrutura do Projeto
 
 ### Organização dos Pacotes
