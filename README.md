@@ -52,9 +52,9 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
     - Gere funcionalidades relacionadas ao perfil do utilizador (detalhes não especificados).
 
   - **`theme`**:
-    - `Color.kt`: Ecrã de login para os utilizadores.
-    - `Theme.kt`: ViewModel correspondente à lógica de autenticação.
-    - `Type.kt`: ViewModel correspondente à lógica de autenticação.
+    - `Color.kt`: Contém as definições de cores utilizadas na aplicação.
+    - `Theme.kt`: Define o tema geral da aplicação (cores, fontes, estilos).
+    - `Type.kt`:  Contém estilos de tipografia para a aplicação.
   
 
 ---
