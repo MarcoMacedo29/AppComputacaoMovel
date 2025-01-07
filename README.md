@@ -1,5 +1,13 @@
 # Relatório do Projeto: Aplicação para Gestão de Stock um Supermercado
 
+# __Indíce__
+1. [__Introdução__](##Introdução)
+2. [__Implementação__](#Implementação)
+3. [__Instruções de Jogo__](#instru)
+4. [__Decisões de Implementação__](#decisoes)
+5. [__Análise dos Códigos Disponibilizados__](#analise)
+6. [__Conclusão__](#Conclusão)
+
 ## Introdução
 
 Este projeto tem como objetivo o desenvolvimento de uma aplicação móvel destinada à **gestão de stock de um supermercado por o Staff**, permitindo que os funcionários possam gerir os itens do armazém de forma eficiente e prática. A aplicação foi projetada para aproveitar os recursos do Firebase e as melhores práticas de desenvolvimento Android, como o padrão arquitetural **MVVM (Model-View-ViewModel)**.
