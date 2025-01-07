@@ -3,12 +3,13 @@
 # __Indíce__
 1. [__Introdução__](#Introdução)
 2. [__Estrutura do Projeto__](#estrutura)
-3. [__Lista de Funcionalidades__](#funcionalidades)
-4. [__Decisões de Implementação__](#dep)
-5. [__Modelo de Dados__](#modelodados)
-6. [__Implementação do Projeto__](#implementacaoprojeto)
-7. [__Dificuldades__](#Dificuldades)
-8. [__Conclusão__](#Conclusão)
+   - [__Objetivo__](#organizacaopastas)
+4. [__Lista de Funcionalidades__](#funcionalidades)
+5. [__Decisões de Implementação__](#dep)
+6. [__Modelo de Dados__](#modelodados)
+7. [__Implementação do Projeto__](#implementacaoprojeto)
+8. [__Dificuldades__](#Dificuldades)
+9. [__Conclusão__](#Conclusão)
 
 ## Introdução
 
@@ -19,8 +20,8 @@ A aplicação utiliza as linguagens **Kotlin** e **Java**, integradas no **Andro
 ---
 <a name="estrutura"></a>
 ## Estrutura do Projeto
-
-### Organização dos Pacotes
+<a name="organizacaopastas"></a>
+### Organização das Pastas
 
 #### **Pacote Principal: `com.example.trabalhofinal`**
 
