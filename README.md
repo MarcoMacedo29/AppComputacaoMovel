@@ -205,11 +205,9 @@ com.example.trabalhofinal/
 </a>
 
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
-- **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
-
-
-
-
+<a href="https://postimg.cc/zVz1qdrh" target="_blank">
+  <img src="https://i.postimg.cc/m2MZNqpm/Captura-de-ecr-2025-01-08-020845.png" alt="Ecrã de Para Encomendar" width="300">
+</a>
 
 
 ---
