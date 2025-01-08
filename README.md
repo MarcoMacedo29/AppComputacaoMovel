@@ -174,17 +174,30 @@ com.example.trabalhofinal/
 <a name="Prototipodeecras"></a>
 ### Protótipos de Ecrãs
 
-**Ecrã de Login**: Interface para autenticação de utilizadores.  
+- **Ecrã de Login**: Interface para autenticação de utilizadores.  
 <a href="https://postimg.cc/w3JLLwLr" target="_blank">
-  <img src="https://i.postimg.cc/v82hRjBG/Captura-de-ecr-2025-01-08-013347.png" alt="Ecrã de Login" width="300">
+  <img src="https://i.postimg.cc/v82hRjBG/Captura-de-ecr-2025-01-08-013347.png" alt="Ecrã de Login" width="200">
 </a>
 
 
 
 - **Ecrã de Register**: Interface para registrar os utilizadores.
+<a href="https://postimg.cc/jw880ZdK" target="_blank">
+  <img src="https://i.postimg.cc/902s9n64/Captura-de-ecr-2025-01-08-014507.png" alt="Ecrã de Login" width="200">
+</a>
+
+- **Ecrã de Home View**: Ecrã inicial da aplicação.
+<a href="https://postimg.cc/tZSHS3Kn" target="_blank">
+  <img src="https://i.postimg.cc/mkR2rVVj/Captura-de-ecr-2025-01-08-014929.png" alt="Ecrã de Home View" width="200">
+</a>
+
+- **Ecrã de Ver Itens**: Ecrã para ver, adicionar, remover e mover os itens para encomendas/fora de validade
+<a href="https://postimg.cc/56kTh9KT" target="_blank">
+  <img src="https://i.postimg.cc/vZQy6crY/Captura-de-ecr-2025-01-08-015353.png" alt="Ecrã de Ver Itens" width="200">
+</a>  
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
-- **Ecrã de Ver Itens**: Ecrã para ver, adicionar, remover e mover os itens para encomendas/fora de validade
+
 - **Ecrã de Itens Fora da Validade**: Ecrã para ver os itens movidos para fora de validade.
 - **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
 
