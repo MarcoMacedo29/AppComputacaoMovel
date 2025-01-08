@@ -200,6 +200,7 @@ graph TD;
 ### Protótipos de Ecrãs
 
 - **Ecrã de Login**: Interface para autenticação de utilizadores.
+- **Ecrã de Register**: Interface para registrar os utilizadores.
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
 - **Ecrã de Ver Itens**: Ecrã para ver, adicionar, remover e mover os itens para encomendas/fora de validade
