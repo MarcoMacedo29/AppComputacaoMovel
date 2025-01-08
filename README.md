@@ -264,10 +264,10 @@ com.example.trabalhofinal/
 
 ## Dificuldades
 
-- Configuração inicial do Firebase e integração com Android.
 - Aprendizagem do padrão MVVM e aplicação prática.
-- Sincronização em tempo real com Firestore.
 - Design de interfaces responsivas e intuitivas.
+- Imlementar Tela de Login e Registro.
+- Dificuldade a melhorar a aparência.
 
 ---
 
