@@ -217,28 +217,18 @@ com.example.trabalhofinal/
 <a name="estruturafirebase"></a>
 ### Estrutura no Firebase Firestore
 
-- **Coleção `utilizadores`**:
-  - `id` (string): Identificador único do utilizador.
-  - `nome` (string): Nome do utilizador.
-  - `email` (string): Email do utilizador.
+- **Coleção `User`**:
+  - **`name`** (string, opcional): Nome do utilizador.
+  - **`email`** (string, opcional): E-mail do utilizador.
+  - **`docId`** (string, opcional): Identificador único do documento de um utilizador.
 
-- **Coleção `Encomendas`**:
-  - `id` (string): Identificador único do utilizador.
-  - `nome` (string): Nome do utilizador.
-  - `qtd` (Double): Email do utilizador.
-  
-- **Coleção `stock`**:
-  - `id` (string): Identificador único do item.
-  - `nome` (string): Nome do item.
-  - `quantidade` (int): Quantidade atual do item.
-  - `descricao` (string): Descrição do item.
-  - `validade` (date): Data de validade do item.
+- **Coleção `Item`**:
+  - **`docId`** (string, opcional): Identificador único do item.
+  - **`name`** (string, opcional): Nome do item.
+  - **`qtd`** (int, opcional): Quantidade disponível do item.
+  - **`data`** (string, opcional): Data associada ao item (por exemplo, data de criação ou de validade).
+  - **`checked`** (boolean, padrão: `false`): Indica se o item foi verificado ou não.
 
-- **Coleção `historico`**:
-  - `id` (string): Identificador único da movimentação.
-  - `tipo` (string): Tipo da movimentação (entrada/saída).
-  - `data` (timestamp): Data e hora da movimentação.
-  - `quantidade` (int): Quantidade movimentada.
 
 ---
 <a name="implementacaoprojeto"></a>
