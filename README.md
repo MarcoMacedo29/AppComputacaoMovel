@@ -192,11 +192,17 @@ com.example.trabalhofinal/
 - **Ecrã de Ver Itens**: Ecrã para ver, adicionar, remover e mover os itens para encomendas/fora de validade
 <a href="https://postimg.cc/56kTh9KT" target="_blank">
   <img src="https://i.postimg.cc/vZQy6crY/Captura-de-ecr-2025-01-08-015353.png" alt="Ecrã de Ver Itens" width="300">
-</a>  
+</a>
+
+- **Ecrã de Itens Fora da Validade**: Ecrã para ver os itens movidos para fora de validade.
+<a href="https://postimg.cc/r0MqDFkg" target="_blank">
+  <img src="https://i.postimg.cc/DZb0Y8YV/Captura-de-ecr-2025-01-08-015835.png" alt="Ecrã de Itens Fora da Validade" width="300">
+</a>
+  
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
 
-- **Ecrã de Itens Fora da Validade**: Ecrã para ver os itens movidos para fora de validade.
+
 - **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
 
 
