@@ -212,6 +212,11 @@ Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
   - `nome` (string): Nome do utilizador.
   - `email` (string): Email do utilizador.
 
+- **Coleção `Encomendas`**:
+  - `id` (string): Identificador único do utilizador.
+  - `nome` (string): Nome do utilizador.
+  - `qtd` (Double): Email do utilizador.
+  
 - **Coleção `stock`**:
   - `id` (string): Identificador único do item.
   - `nome` (string): Nome do item.
