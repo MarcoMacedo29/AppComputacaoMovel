@@ -198,12 +198,17 @@ com.example.trabalhofinal/
 <a href="https://postimg.cc/r0MqDFkg" target="_blank">
   <img src="https://i.postimg.cc/DZb0Y8YV/Captura-de-ecr-2025-01-08-015835.png" alt="Ecrã de Itens Fora da Validade" width="300">
 </a>
-  
+
+- **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
+<a href="https://postimg.cc/ThZRGjPq" target="_blank">
+  <img src="https://i.postimg.cc/VLN5qDQT/Captura-de-ecr-2025-01-08-020627.png" alt="Ecrã de Para Encomendar" width="300">
+</a>
+
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
 
 
-- **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
+
 
 
 
