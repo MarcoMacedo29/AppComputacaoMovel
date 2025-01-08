@@ -175,8 +175,8 @@ com.example.trabalhofinal/
 ### Protótipos de Ecrãs
 
 - **Ecrã de Login**: Interface para autenticação de utilizadores.  
-<a href="https://postimg.cc/w3JLLwLr" target="_blank">
-  <img src="https://i.postimg.cc/v82hRjBG/Captura-de-ecr-2025-01-08-013347.png" alt="Ecrã de Login" width="300">
+<a href="https://postimg.cc/WqhfGcM2" target="_blank">
+  <img src="https://i.postimg.cc/vTzFdQT6/Captura-de-ecr-2025-01-08-095156.png" alt="Ecrã de Login" width="300">
 </a>
 
 - **Ecrã de Register**: Interface para registrar os utilizadores.
