@@ -74,6 +74,10 @@ com.example.trabalhofinal/
 │   │   ├── ProfileView.kt
 |   |   └── ProfileViewModel.kt
 │   │
+|   ├── register/
+|   |   ├── RegisterView.kt
+|   |   └── RegisterViewModel.kt
+|   | 
 │   └── theme/
 │       ├── Color.kt
 │       ├── Theme.kt
@@ -131,6 +135,11 @@ com.example.trabalhofinal/
   - **`profile`**:
     - `ProfileView.kt`: Gere funcionalidades relacionadas ao perfil do utilizador (detalhes não especificados).
     - `ProfileViewModel.kt`: ViewModel correspondente à lógica de profile.
+
+  - **`register`**:
+    - `RegisterView.kt`: Gere funcionalidades relacionadas ao registro do utilizador.
+    - `RegisterViewModel.kt`: ViewModel correspondente à lógica de register.
+
 
   - **`theme`**:
     - `Color.kt`: Contém as definições de cores utilizadas na aplicação.
