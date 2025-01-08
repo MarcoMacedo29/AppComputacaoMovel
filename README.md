@@ -192,8 +192,10 @@ graph TD;
 
 - **Ecrã de Login**: Interface para autenticação de utilizadores.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
-- **Ecrã de Relatórios**: Apresenta dados consolidados do stock.
-- **Ecrã de Histórico**: Detalha todas as movimentações realizadas no sistema.
+- **Ecrã de Ver Itens**: Ecrã para ver, adicionar, remover e mover os itens para encomendas/fora de validade
+- **Ecrã de Itens Fora da Validade**: Ecrã para ver os itens movidos para fora de validade.
+- **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
+
 
 Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 
