@@ -282,12 +282,6 @@ com.example.trabalhofinal/
 
 O projeto atingiu os objetivos principais, fornecendo uma ferramenta prática e funcional para a gestão de stock de um supermercado. A aplicação oferece uma interface intuitiva e funcionalidades robustas para os utilizadores, explorando as capacidades do Firebase e Android.
 
-### Pontos de Melhoria
-
-- **Relatórios Avançados**: Implementar gráficos e visualizações dinâmicas para análise de dados.
-- **Integração com APIs de Terceiros**: Para funcionalidades como previsão de procura ou integração com fornecedores.
-- **Otimizações de Performance**: Melhorar a sincronização de dados em tempo real e reduzir o uso de recursos.
-
 ---
 
-Este projeto demonstra a aplicação prática de conceitos aprendidos ao longo do curso, integrando tecnologia moderna com boas práticas de desenvolvimento.
+
