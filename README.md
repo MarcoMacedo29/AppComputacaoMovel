@@ -181,7 +181,7 @@ com.example.trabalhofinal/
 
 - **Ecrã de Register**: Interface para registrar os utilizadores.
 <a href="https://postimg.cc/jw880ZdK" target="_blank">
-  <img src="https://i.postimg.cc/902s9n64/Captura-de-ecr-2025-01-08-014507.png" alt="Ecrã de Login" width="300">
+  <img src="https://i.postimg.cc/902s9n64/Captura-de-ecr-2025-01-08-014507.png" alt="Ecrã de Register" width="300">
 </a>
 
 - **Ecrã de Home View**: Ecrã inicial da aplicação.
@@ -206,7 +206,7 @@ com.example.trabalhofinal/
 
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 <a href="https://postimg.cc/zVz1qdrh" target="_blank">
-  <img src="https://i.postimg.cc/m2MZNqpm/Captura-de-ecr-2025-01-08-020845.png" alt="Ecrã de Para Encomendar" width="300">
+  <img src="https://i.postimg.cc/m2MZNqpm/Captura-de-ecr-2025-01-08-020845.png" alt="Ecrã de Profile" width="300">
 </a>
 
 
@@ -238,6 +238,9 @@ com.example.trabalhofinal/
 ### Firebase
 - **Authentication**: Gere o login e registo de utilizadores.
 - **Firestore**: Base de dados em tempo real para armazenar informações do stock.
+<a href="https://postimg.cc/PPmt2LMX" target="_blank">
+  <img src="https://i.postimg.cc/pXSpVzhF/Captura-de-ecr-2025-01-08-022852.png" alt="Ecrã da Firebase">
+</a>
 
 <a name="mvvm"></a>
 ### MVVM
