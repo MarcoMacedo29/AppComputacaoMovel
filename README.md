@@ -174,7 +174,9 @@ com.example.trabalhofinal/
 <a name="Prototipodeecras"></a>
 ### Protótipos de Ecrãs
 
-- **Ecrã de Login**: Interface para autenticação de utilizadores.
+- **Ecrã de Login**: Interface para autenticação de utilizadores.  
+  ![Ecrã de Login]([![Captura-de-ecr-2025-01-08-013347.png](https://i.postimg.cc/v82hRjBG/Captura-de-ecr-2025-01-08-013347.png)](https://postimg.cc/w3JLLwLr))
+  
 - **Ecrã de Register**: Interface para registrar os utilizadores.
 - **Ecrã de Profile**: Interface para colocar o nome do Perfil.
 - **Ecrã de Gestão de Stock**: Ecrã principal para visualizar e gerir itens.
