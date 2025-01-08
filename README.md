@@ -8,7 +8,6 @@
    - [__Organização das Pastas__](#organizacaopastas)
 3. [__Lista de Funcionalidades__](#funcionalidades)
 4. [__Desenhos, Esquemas e Protótipos__](#dep)
-   - [__Fluxograma do Funcionamento__](#fluxograma)
    - [__Protótipos de Ecrãs__](#Prototipodeecras)
 5. [__Modelo de Dados__](#modelodados)
    - [__Estrutura no Firebase Firestore__](#estruturafirebase)
@@ -171,31 +170,7 @@ com.example.trabalhofinal/
 <a name="dep"></a>
 ## Desenhos, Esquemas e Protótipos
 
-<a name="fluxograma"></a>
-### Fluxograma do Funcionamento
 
-```mermaid
-graph TD;
-    Login --> LoginView;
-    LoginView --> Dashboard;
-    Dashboard --> HomeView;
-    Dashboard --> EncomendasView;
-    Dashboard --> ExpiredItemsView;
-    Dashboard --> ListItemsView;
-    Dashboard --> ProfileView;
-    HomeView --> AddItemView;
-    HomeView --> EditItemView;
-    AddItemView --> ListItemsView;
-    EditItemView --> ListItemsView;
-    ListItemsView --> ItemRowView;
-    EncomendasView --> EncomendasViewModel;
-    ExpiredItemsView --> ExpiredItemsViewModel;
-    ProfileView --> ProfileViewModel;
-    EncomendasView --> Dashboard;
-    ExpiredItemsView --> Dashboard;
-    ListItemsView --> Dashboard;
-    ProfileView --> Dashboard;
-```
 <a name="Prototipodeecras"></a>
 ### Protótipos de Ecrãs
 
@@ -208,7 +183,6 @@ graph TD;
 - **Ecrã de Para Encomendar**: Ecrã para ver as encomendas adicionadas.
 
 
-Imagens ou capturas de ecrã podem ser adicionadas aqui para ilustrar.
 
 ---
 <a name="modelodados"></a>
